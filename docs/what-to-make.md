@@ -30,3 +30,5 @@ for the pancakes and French toast. If you want something a little
 lighter and healthier, choose the veggie omelet and avocado toast.
 Whichever choice you both make, have fun making it in the new apartment
 and I wish you both the best of luck.
+
+{% include footer.md %}

@@ -31,3 +31,5 @@
 
 > ![Avocado on Toast](images/media/image9.png)  
 > Figure 9 -- Final product for avocado on toast
+
+{% include footer.md %}

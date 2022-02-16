@@ -31,3 +31,5 @@
 
 > ![Omelet](images/media/image7.png)  
 > Figure 7 - Final product for veggie omelet.
+
+{% include footer.md %}

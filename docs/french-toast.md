@@ -26,3 +26,5 @@
 
 > ![French Toast](images/media/image8.jpeg)  
 > Figure 8 - Desired cook for French toast
+
+{% include footer.md %}

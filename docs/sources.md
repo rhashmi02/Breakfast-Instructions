@@ -7,3 +7,5 @@
 Kelly, D. (n.d.). *Good old fashioned pancakes*. Allrecipes. Retrieved
 February 3, 2022, from
 <https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/>
+
+{% include footer.md %}

@@ -16,3 +16,5 @@ all too familiar with these dishes so you will not need them, but this
 guide should help you find all the things needed for the recipe. Have a
 wonderful time cooking breakfast at the apartment using this guide to
 help!
+
+{% include footer.md %}

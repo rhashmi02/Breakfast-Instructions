@@ -31,3 +31,5 @@
 
 > ![Pancakes](images/media/image6.jpeg)  
 > Figure 6 - Final pancake product.
+
+{% include footer.md %}

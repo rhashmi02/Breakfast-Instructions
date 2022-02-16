@@ -58,3 +58,5 @@ knives, spatulas, etc.
 
 > ![Drawer](images/media/image5.jpeg)  
 > Figure 5 - Picture of drawer
+
+{% include footer.md %}
