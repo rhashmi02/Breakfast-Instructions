@@ -29,7 +29,7 @@
     brown on both sides.
 8. Serve the pancakes and enjoy (Figure 6).
 
-> ![Pancakes](images/media/image6.jpeg)  
-> Figure 6 - Final pancake product.
+![Pancakes](images/media/image6.jpeg)  
+Figure 6 - Final pancake product.
 
 {% include footer.md %}

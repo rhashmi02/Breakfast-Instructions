@@ -24,7 +24,7 @@
 7. Cook for about 2 minutes on each side or until both sides are golden brown (Figure 8).
 8. Remove French toast from pan and serve.
 
-> ![French Toast](images/media/image8.jpeg)  
-> Figure 8 - Desired cook for French toast
+![French Toast](images/media/image8.jpeg)  
+Figure 8 - Desired cook for French toast
 
 {% include footer.md %}

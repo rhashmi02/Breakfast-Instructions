@@ -29,7 +29,7 @@
 10. Fold the other half of the omelet over the vegetables.
 11. Gently slide the omelet out of the pan and serve (Figure 7).
 
-> ![Omelet](images/media/image7.png)  
-> Figure 7 - Final product for veggie omelet.
+![Omelet](images/media/image7.png)  
+Figure 7 - Final product for veggie omelet.
 
 {% include footer.md %}
