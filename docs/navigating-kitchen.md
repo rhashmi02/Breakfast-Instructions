@@ -1,4 +1,4 @@
-# How to Navigate the kitchen
+# How to Navigate the Kitchen
 
 The first thing that you will need to know to make breakfast is where
 everything is in the kitchen. To help you navigate, I will tell you

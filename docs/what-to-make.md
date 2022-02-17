@@ -1,4 +1,4 @@
-# How to Decide What to Make
+# How to decide what to make
 
 Now that you both know a little bit more about the layout of the
 kitchen, you guys must pick what to make. I have included 4 recipes to

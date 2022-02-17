@@ -1,4 +1,4 @@
-# How to Make Avocado on toast
+# How to make Avocado on toast
 
 ## Needed Items
 
