@@ -15,7 +15,7 @@ and stores all essential groceries that need to be refrigerated like
 eggs, milk, etc.
 
 ![Refrigerator](images/media/image1.jpeg)  
-Figure 1 - Picture of refrigerator
+*Figure 1 - Picture of refrigerator*
 
 Remember to put back any ingredients from the refrigerator back after
 you are done using them, so they do not spoil.
@@ -27,7 +27,7 @@ contains other food items that do not need to be refrigerated like
 flour, snacks, etc.
 
 ![Pantry](images/media/image2.jpeg)  
-Figure 2 - Picture of pantry
+*Figure 2 - Picture of pantry*
 
 Be careful when grabbing items from the pantry so that you do not knock
 any items down.
@@ -39,7 +39,7 @@ left of the pantry (Figure 3). This cabinet contains dishes, cups, as
 well as oil and spices that are often used when cooking.
 
 ![Top Cabinet](images/media/image3.jpeg)  
-Figure 3 - Picture of top cabinet
+*Figure 3 - Picture of top cabinet*
 
 ## Bottom Cabinet
 
@@ -48,7 +48,7 @@ counter (Figure 4) and contains larger kitchen utensils like mixing
 bowls, pots, pans, etc.
 
 ![Bottom Cabinet](images/media/image4.jpeg)  
-Figure 4 - Picture of bottom cabinet
+*Figure 4 - Picture of bottom cabinet*
 
 ## Drawer
 
@@ -57,6 +57,6 @@ pantry (Figure 5). This drawer contains all utensils like forks, spoons,
 knives, spatulas, etc.
 
 ![Drawer](images/media/image5.jpeg)  
-Figure 5 - Picture of drawer
+*Figure 5 - Picture of drawer*
 
 {% include footer.md %}

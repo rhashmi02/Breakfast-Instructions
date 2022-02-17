@@ -30,6 +30,6 @@
 7. Spread on top of toast and serve (Figure 9).
 
 ![Avocado on Toast](images/media/image9.png)  
-Figure 9 - Final product for avocado on toast
+*Figure 9 - Final product for avocado on toast*
 
 {% include footer.md %}

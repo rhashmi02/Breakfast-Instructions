@@ -30,6 +30,6 @@
 11. Gently slide the omelet out of the pan and serve (Figure 7).
 
 ![Omelet](images/media/image7.png)  
-Figure 7 - Final product for veggie omelet.
+*Figure 7 - Final product for veggie omelet*
 
 {% include footer.md %}
